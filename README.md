@@ -7,32 +7,6 @@ Partie Front :
 - Knex.js : SQL builder qui permet de créer une base de données, de la modifier et d'écrire des requêtes avec une syntaxe objet.
 
 
-![Nouvelle note](https://github.com/user-attachments/assets/b009ddc7-981d-41da-acc7-e3d2bd15ffb6)
-
-LE FICHIER DE CONFIGURATION FIREBASE ANDROID (GOOGLE-SERVICE-JSON)
-
-
-
-![IMG_0308 2](https://github.com/user-attachments/assets/aabd7de7-a5a3-4f83-9e0d-cfb1a4ff5073)
-
-
-
-
-![IMG_0307 2](https://github.com/user-attachments/assets/d03b0ddd-e2ba-48d7-a17a-57c401577efd)
-
-
-
-
-
-
-
-
-Avec la possiblibilté de le publier sur app store ou play store selon le plan.
-
-
-UTISATION DE FIREBASE POUR APPLICATION:
-![Capture d’écran 2024-09-21 à 22 57 11](https://github.com/user-attachments/assets/78c024d8-91c4-4766-bd51-2685a5636b90)
-![Capture d’écran 2024-09-21 à 22 56 51](https://github.com/user-attachments/assets/ee18e63f-5e68-4b6e-bc02-b0423ddb17af)
 
 UTILISATION DE TRELLO:
 https://trello.com/home
